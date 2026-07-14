@@ -11,7 +11,7 @@ Every session runs inside one fictional story — **Campaign MERIDIAN** (Skyward
 
 ## Folders
 - `Student/` — the prompt packet, the case study, and the practice files to run packet prompts against.
-- `Instructor/` — session slide PDFs, the instructor run sheet, and demo source files (includes answer keys — students, no peeking: you'll spoil the good parts).
+- `Instructor/` — session decks (editable .pptx + PDF), the 101-slide master deck, the instructor run sheet (solo-operator beat tables, demo click-paths with paste-ready prompts, morning-of verification gate), and demo source files (includes answer keys — students, no peeking: you'll spoil the good parts).
 
 ---
 *All content is fictional and created for training. Skyward Dynamics, Campaign MERIDIAN, and every name, date, and figure are invented. No real customer, mission, or contract is described.*
