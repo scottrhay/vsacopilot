@@ -1,6 +1,6 @@
 # Microsoft 365 Copilot — VSA Training Series
 
-> **Students — start here:** the [Campaign MERIDIAN case study](Student/Campaign_MERIDIAN_Case_Study.md) (the 5-minute read behind every demo), the [VSA Prompt Packet](Student/VSA_Prompt_Packet.md) — 38 copy-paste prompts ([PDF](Student/VSA_Prompt_Packet.pdf)) — and the practice files in [`Student/Source_Files/`](Student/Source_Files).
+> **Students — start here:** the [Campaign MERIDIAN case study](Student/Campaign_MERIDIAN_Case_Study.md) (the 5-minute read behind every demo), the [VSA Prompt Packet](Student/VSA_Prompt_Packet.md) — 38 copy-paste prompts ([PDF](Student/VSA_Prompt_Packet.pdf)) — Microsoft's [The Art and Science of Prompting](Student/The%20Art%20and%20Science%20of%20Prompting.pdf) field guide, and the practice files in [`Student/Source_Files/`](Student/Source_Files).
 
 Four standalone 60-minute demo-led sessions for end users, delivered **Jul 14–15 and repeated Jul 21–22, 2026**:
 A) Prompting & Copilot Chat · B) Teams & Outlook · C) PowerPoint & Word · D) OneNote & Excel.
